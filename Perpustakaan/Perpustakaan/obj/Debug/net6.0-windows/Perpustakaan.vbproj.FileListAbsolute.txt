@@ -1,0 +1,128 @@
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\user\source\repos\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+C:\Users\user\Documents\adel tia\perpus\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu10\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.FormLogin.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.FormLogin.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Register.resources
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CopyComplete
+D:\Adel\Semester 3\Pemrogramman Visual\minggu 11\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.UpdateKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.exe
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.deps.json
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.runtimeconfig.json
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Perpustakaan.pdb
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.AssemblyReference.cache
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.FormLogin.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.HapusKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.InfoTambahKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Resources.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Perpustakaan.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.Register.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.TambahKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.UpdateKoleksi.resources
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.GenerateResource.cache
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfoInputs.cache
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.AssemblyInfo.vb
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CoreCompileInputs.cache
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.vbproj.CopyComplete
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\refint\Perpustakaan.dll
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.pdb
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\Perpustakaan.genruntimeconfig.cache
+D:\Adel\Semester 3\Pemrogramman Visual\Minggu 13\Perpustakaan\Perpustakaan\obj\Debug\net6.0-windows\ref\Perpustakaan.dll
